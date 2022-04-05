@@ -44,7 +44,7 @@
 В рамках данного задания были реализованны клиентская часть интернет магазина обуви. Работа с готовой версткой и бекендом. Приложение написано на React за состояние отвечает Redux и Redux Thunk.
 
 ### [Бот ChaosOrganizer](https://github.com/cherry-pynya/ahj_diploma_front) ###
-[бэкенд](https://github.com/cherry-pynya/ahj_diploma_front/blob/main/README.md)
+[бэкенд](https://github.com/cherry-pynya/ahj_diploma_back)
 
 Бот (не в мессенджере) реализован с помощью HTML, CSS, JS без дополнительных библиотек и фреймворков.
 Что бот умеет: 
