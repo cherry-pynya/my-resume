@@ -23,6 +23,10 @@
 * TypeScript + React
 * Юнит тестирование
 
+## Тестовые ## 
+
+### [Тестовое задание для группы компаний Триумф](https://github.com/cherry-pynya/triumph-test) ###
+
 ## Мои проекты ##
 
 ### [SubKeeper](https://github.com/cherry-pynya/SubKeeper) ###
