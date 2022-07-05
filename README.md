@@ -26,6 +26,7 @@
 ## Тестовые ## 
 
 ### [Тестовое задание для группы компаний Триумф](https://github.com/cherry-pynya/triumph-test) ###
+### [Тестовое задание для группы компаний Триумф](https://github.com/cherry-pynya/funbox_nyamushka) ###
 
 ## Мои проекты ##
 
